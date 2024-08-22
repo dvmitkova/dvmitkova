@@ -15,16 +15,17 @@ I’m Diana, a **JavaScript Software Engineer** on a mission to merge precision 
 
 ## 🌟 Skills & Superpowers
 - **Languages & Frameworks**:
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-  - ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)
+ - ![JavaScript](https://cdn.jsdelivr.net/npm/devicons@1.8.0/devicon/devicon.min.css)
+ - ![JavaScript](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/javascript/javascript-original.svg)
+  - ![React](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/react/react-original.svg)
+  - ![HTML5](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/html5/html5-original.svg)
+  - ![CSS3](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/css3/css3-original.svg)
+  - ![TypeScript](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/typescript/typescript-original.svg)
+  - ![Node.js](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/nodejs/nodejs-original.svg)
+  - ![Angular](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/angular/angular-original.svg)
 
 - **Tools & Tech**:
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  - ![GitHub](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/github/github-original.svg)
 
 - **Superpowers**:
   - Problem Solving

@@ -1,17 +1,17 @@
 <div align="center">
 
-## ✨ Hello, I'm Diana, ✨
+# ✨ Hello, I'm Diana, ✨
 
-a **Junior JavaScript Software Engineer** <br> blending precision from banking with creativity in tech. <br> I’m passionate about crafting innovative solutions with a keen eye for detail. 
+### a Junior JavaScript Software Engineer <br> blending precision from banking with creativity in tech. <br> I’m passionate about crafting innovative solutions with a keen eye for detail.
 
 ## 🚀 Diving into Code
  ### **Junior Software Developer** at AquaWare Bulgaria  
-  *A housing water consumption tracker made with ReactJS, React Native, Python, and Django.*  
+  A housing water consumption tracker made with ReactJS, React Native, Python, and Django.  
 
 ## 📚 Learning & Growth
-### 🌱 *Always learning and growing* 
- **Software Development with JavaScript**, SoftUni <br>
-  *January 2023 - August 2024*
+### 🌱 Always learning and growing
+ #### Software Development with JavaScript, SoftUni <br>
+  January 2023 - August 2024
 
 ## 🌟 Skills & Superpowers
   <div>

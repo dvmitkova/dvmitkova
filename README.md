@@ -3,7 +3,7 @@
 # <a href="https://diana-portfolio-mu.vercel.app/">💻 My Portfolio Website</a>
 # ✨ Hello, I'm Diana, ✨
 
-### a Junior JavaScript Software Engineer <br> blending precision from banking with creativity in tech. <br> I’m passionate about crafting innovative solutions with a keen eye for detail.
+### a .NET IT Expert in a big Bulgarian company, <br> blending precision from banking with creativity in tech. <br> I’m passionate about crafting innovative solutions with a keen eye for detail.
 
 ## 🚀 Diving into Code
  ### **Junior Software Developer** at AquaWare Bulgaria  
